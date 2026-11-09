@@ -70,6 +70,7 @@ form acompanhamento https://forms.fillout.com/t/uZwKCpZacUus escuro "ACOMPANHAME
 form diagnostico https://forms.fillout.com/t/6GscXdWSVyus claro "PRIMEIRA REUNIÃO" "Seu diagnóstico financeiro" "A base da nossa primeira conversa" "Seu diagnóstico financeiro" "Responda antes da primeira reunião: é dele que sai a nossa conversa. Doctor Invest · Hélio Barros" 96
 form pgbl https://forms.fillout.com/t/51aPuW2AN1us ouro "PGBL 2026" "A conta do seu PGBL" "6 respostas, 2 minutos" "A conta do seu PGBL 2026" "6 respostas rápidas para eu calcular quanto vale aportar em PGBL até 31/12. Doctor Invest · Hélio Barros"
 form nps https://forms.fillout.com/t/aC6EaNd51Xus azul "SUA OPINIÃO" "Sua avaliação" "1 minuto, e eu leio cada resposta" "Sua avaliação da Doctor Invest" "Leva 1 minuto e eu leio cada resposta. Doctor Invest · Hélio Barros"
+form checkin https://forms.fillout.com/t/6AmTCYAukDus claro "CHECK-IN DO MÊS" "Seu check-in mensal" "Ordens, caixa e aporte em 2 minutos" "Check-in do mês · Doctor Invest" "Ordens, caixa e aporte do mês. 2 minutos para eu ajustar o seu próximo passo. Doctor Invest · Hélio Barros"
 
 # Essencial
 form essencial-entrevista https://forms.fillout.com/t/5sgiDf7R2Tus escuro "DOCTOR INVEST ESSENCIAL" "Sua entrevista de entrada" "15 minutos para eu montar o seu plano" "Entrevista de entrada · Essencial" "15 minutos de respostas para eu montar o seu plano. Doctor Invest · Hélio Barros" 100
